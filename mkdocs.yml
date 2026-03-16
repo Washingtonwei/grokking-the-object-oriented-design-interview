@@ -1,7 +1,7 @@
 site_name: Grokking the Object Oriented Design Interview
 site_description: A comprehensive guide to object-oriented design interviews
-site_author: Original content from educative.io
-copyright: "Original content from educative.io"
+site_author: Original content from designgurus.io
+copyright: "Original content from designgurus.io"
 site_url: https://noblenihal.github.io/Grokking-the-Object-Oriented-Design-Interview
 
 theme:

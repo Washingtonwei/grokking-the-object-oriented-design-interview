@@ -1,6 +1,6 @@
 <h1 align="center">Grokking the Object Oriented Design Interview</h1>
 
-I create this repository as extended version of [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview) course. I add `example-codes` part for better understanding.
+I create this repository as extended version of [Grokking the Object Oriented Design Interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview) course. I add `example-codes` part for better understanding.
 
 ### **Notes:**
 
@@ -75,7 +75,7 @@ View diagrams using [PlantUML Online Editor](http://www.plantuml.com/plantuml/um
 <h3 align="center">** Sources **</h3>
 <hr />
 <p align="center">
-    <b>Course Source: <b/></b><a href="https://www.educative.io/courses/grokking-the-object-oriented-design-interview"><b>Grokking the Object Oriented Design Interview</b></a>
+    <b>Course Source: <b/></b><a href="https://www.designgurus.io/course/grokking-the-object-oriented-design-interview"><b>Grokking the Object Oriented Design Interview</b></a>
     <br />
     <b>Banner Photo Source: <b/></b><a href="https://dribbble.com"><b>Dribbble</b></a>
 </p>

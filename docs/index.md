@@ -35,4 +35,4 @@ Choose a section to begin your learning journey:
 
 ## About This Guide
 
-This website is based on the original content from the [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview) course from Educative.io, enhanced with additional code examples.
+This website is based on the original content from the [Grokking the Object Oriented Design Interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview) course from DesignGurus.io, enhanced with additional code examples.
