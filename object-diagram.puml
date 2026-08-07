@@ -399,7 +399,7 @@ package "ATM System" #Lavender {
         + addATM(atm)
     }
     
-    class BankAccount {
+    abstract class BankAccount {
         - accountNumber: string
         - totalBalance: double
         - availableBalance: double
