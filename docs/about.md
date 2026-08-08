@@ -2,7 +2,7 @@
 
 ## Origin of the Content
 
-This website is based on the "Grokking the Object Oriented Design Interview" course from [Educative.io](https://www.educative.io/courses/grokking-the-object-oriented-design-interview), enhanced with additional code examples and improved navigation.
+This website is based on the "Grokking the Object Oriented Design Interview" course from [DesignGurus.io](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview), enhanced with additional code examples and improved navigation.
 
 The original repository contains:
 
@@ -38,7 +38,7 @@ If you find any issues or have suggestions for improvement, please feel free to 
 
 Special thanks to:
 
-- **Educative.io** for the original course content
+- **DesignGurus.io** for the original course content
 - **Contributors** who have helped enhance the material
 - **The open-source community** for providing the tools used to build this site
 
